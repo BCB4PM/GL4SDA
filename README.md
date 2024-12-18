@@ -17,9 +17,13 @@ To write and run our Python scripts, we used Python= 3.10.
 The other essential packages are:
 
 pyg= 2.6
+
 pytorch= 2.4.1
+
 scikit-learn = 1.3.2
+
 pandas = 2.1.3
+
 numpy = 1.26.2
 
 
