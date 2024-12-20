@@ -3,7 +3,7 @@ A GNN model based on snoRNA secondary structures and LLM disease embedding for t
 
 This repository provides the source code for "insert the paper's title".
 
-- The "**data**" folder contains raw and processed data. The "raw_data" sub-folder contains siRNA sequences, disease descriptions, as well as their feature representations, and 911 snoRNA-disease associations. Otherwise, the "graph_data" sub-folder contains a graph representation of soRNA-disease associations and two subgraphs representing the train and the test sets.
+- The "**data**" folder contains raw and processed data. The "raw_data" sub-folder contains siRNA sequences, disease descriptions, as well as their feature representations, and 911 snoRNA-disease associations. Otherwise, the "graph_data" sub-folder contains a graph representation of snoRNA-disease associations and two subgraphs representing the train and the test sets.
 
 - The "**preprocessing**" folder contains two scripts we released for transforming raw data into the inputs of our model.
 
