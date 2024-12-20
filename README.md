@@ -38,7 +38,7 @@ $ python make_GNN_test.py
 ```
 
 
-We also provide all the row data necessary to create train and test graphs.
+We also provide all the raw data necessary to create train and test graphs.
 Please run the scripts in the "preprocessing" folder in the following order:
 
 ```
