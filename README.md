@@ -46,7 +46,7 @@ $ python make_graph.py
 $ python split_train_test.py
 ```
 
-Finally, we added a script running on Google Colab to train the model and obtain the validation measures as output.
+Finally, we added a script that can be opened in Google Colab to train the model and obtain the validation measures as output.
 
 ```
 GL4SDA_train.ipynb
