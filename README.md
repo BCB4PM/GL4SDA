@@ -47,3 +47,7 @@ $ python split_train_test.py
 ```
 
 Finally, we added a script running on Google Colab to train the model and obtain the validation measures as output.
+
+```
+GL4SDA_train.ipynb
+```
